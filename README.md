@@ -1,7 +1,7 @@
 # 🌐 SPN.IO.VN – Nền tảng Giải đấu & Bảng xếp hạng Free Fire
 
 [![Website](https://img.shields.io/badge/Website-spn.io.vn-blue?style=for-the-badge&logo=google-chrome)](https://spn.io.vn)
-[![Free](https://img.shields.io/badge/Hoàn%20Toàn-Miễn%20Phí-brightgreen?style=for-the-badge&logo=freebsd)](https://spn.io.vn)
+[![Free](https://img.shields.io/badge/chỉ%20với-300%20Đ-brightgreen?style=for-the-badge&logo=freebsd)](https://spn.io.vn)
 [![Security](https://img.shields.io/badge/An%20Toàn%20%26%20Bảo%20Mật-Yes-green?style=for-the-badge&logo=lock)](https://spn.io.vn)
 
 🔥 **[https://spn.io.vn](https://spn.io.vn)** – Website hỗ trợ **tính điểm, tạo bảng xếp hạng, và quản lý giải đấu Free Fire** một cách tự động, nhanh chóng và **hoàn toàn miễn phí**.
