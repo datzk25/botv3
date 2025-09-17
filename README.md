@@ -49,8 +49,7 @@
 
 ```yaml
 /filebot
-├── fca/              # Thư viện FCA-HZI (Horizon)
-├── lib/fblogin.js    # Module chính xử lý AutoLogin
-├── index.js          # File khởi động bot
-├── config.json       # File cấu hình (bao gồm bật/tắt AutoLogin)
+├── fca-autologin/              # Thư viện FCA-HZI (Horizon)
+├── main.js          # File khởi động bot
+├── FastConfigFca.json       # File cấu hình (bao gồm bật/tắt AutoLogin)
 └── appstate.json     # File appState được lưu và cập nhật tự động
